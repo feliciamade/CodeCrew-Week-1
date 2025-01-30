@@ -6,7 +6,7 @@ body {
     font-family: sans-serif;
     margin:0;
     padding:0;
-    color:rgb(126, 72, 72);
+    color:#150b51;
     font-family: "Poppins", serif;
     background-color: white;
 }
@@ -76,7 +76,7 @@ p {
   
     padding:10px;
     margin-bottom:10px;
-    background-color: rgb(255, 241, 239);
+    background-color: #f2f0ef;
     padding:20px;
     border-radius: 10px;
 }
