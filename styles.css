@@ -13,7 +13,7 @@ body {
 }
 
 .blog {
-  
+  height:100vh;
     display:flex;
     flex:1;
     flex-direction: row;
